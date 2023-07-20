@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+#main-cont {
+    height: 100vh;
+}
+
+
+.color-container {
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    padding-top: 65px;
+    padding-bottom: 65px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+
+.update-cont {
+    background-color: black;
+    text-align: center;
+    color: white;
+    padding: 25px;
+    margin: 10px 40px 10px 40px;
+    border-radius: 5px;
+}
+
+.c-1 {
+    background-color: #fab9b9;
+
+}
+
+.c-2 {
+    background-color: #d2fab9;
+
+}
+
+.c-3 {
+    background-color: #c8b9fa;
+
+}
+
+.c-4 {
+    background-color: #f2705c;
+
+}
+
+.c-5 {
+    background-color: #5cf2eb;
+
+}
+
+.c-6 {
+    background-color: #f57dd9;
+
+}
+
+.c-7 {
+    background-color: #3ef08b;
+
+}
+
+.c-8 {
+    background-color: #4a8cc7;
+
+}
+
+.c-9 {
+    background-color: #96939e;
+
+}
+
+.c-10 {
+    background-color: #80bab4;
+
+}
+
+.c-11 {
+    background-color: #fcfaa9;
+
+}
+
+.c-12 {
+    background-color: #ebe9e6;
+
+}
